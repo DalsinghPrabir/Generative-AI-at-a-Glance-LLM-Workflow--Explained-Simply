@@ -18,7 +18,7 @@ Code (programming help)
 
 Music, videos, and more
 
-**Examples: ChatGPT, Gemini, DALL·E, Claude, GitHub Copilot.**
+**Examples: ChatGPT, Gemini,  GitHub Copilot.**
 
 **Why is GenAI booming in the market?**
 
