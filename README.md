@@ -47,9 +47,35 @@ Data privacy → Ensuring personal or company data isn’t misused.
 Intellectual property (IP) → Making sure the content created by AI doesn’t violate copyright or ownership.
 
 
- 
+**AI -How it is revolutionalising Software Development**
 
- 
+ AI can save huge amounts of time (days or weeks of work reduced to minutes) if you use it with the right workflows and prompts.
+
+AI doesn’t replace a developer’s logic — instead, it amplifies it.
+Developers still need to analyze, guide, and verify AI outputs to make sure the results are reliable and not just “quick hacks.”
+
+
+AI is not magic — it works on patterns, context, and the right usage.
+
+Developers must learn prompt engineering (the skill of giving AI the right instructions).
+
+AI should be treated as a partner, not a black box.
+
+Always validate outputs just like reviewing a junior developer’s work.
+
+Future of software engineering is not just writing code, but also knowing:
+
+What tasks to delegate to AI,
+
+How to instruct AI clearly,
+
+When to step in manually.
+
+**In short:**
+AI helps us move faster, but true value comes from building smarter, reliable, and resilient systems by combining developer judgment with AI power.
+
+
+ **AI TERMINOLOGIES** 
 
 𝟭. 𝗟𝗟𝗠 (𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹) 
 
