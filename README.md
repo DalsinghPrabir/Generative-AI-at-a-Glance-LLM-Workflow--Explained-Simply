@@ -198,3 +198,9 @@ on.
 **Programming:** Helping with code
 → When AI gives wrong or made-up answers 
 → Can be fixed with fact-checking and better prompts
+
+
+
+References : https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/
+
+Podcasts on AI 
