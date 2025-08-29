@@ -50,24 +50,23 @@ Helps AI give more accurate, fact-based answers
 AI explains its answer step-by-step 
 Helps with complex reasoning tasks
 
-𝗪𝗵𝗮𝘁’𝘀  𝗡𝗲𝘅𝘁? 
+𝗪𝗵𝗮𝘁’𝘀  **Booming?**
 
 → Multimodal AI (text, images, audio together) 
 → Smaller, faster models 
-→ Safer, ethical AI (Constitutional AI) 
-→ Agentic AI (autonomous, task-completing agents)
+→ **Agentic AI (autonomous, task-completing agents)**
 
 
 
 
-**What is an LLM? **
+**What is an LLM?**
 An LLM, or Large Language Model, is a type of neural network specifically
 designed to process and generate human-like text. These models are built on
 massive datasets, intricate architectures, and intensive training processes.
 Here’s a simple formula to understand LLMs:
 LLM = DATA + ARCHITECTURE + TRAINING
 
-**Data **
+**Data**
 LLMs are trained on petabytes of data. To give you an idea:
 1 GB can contain around 178 million words.
 1 PB (petabyte) equals 1 million GBS
@@ -77,7 +76,7 @@ Books
 Transcripts
 Web scraping
 
-**Architecture **
+**Architecture**
 The architecture of LLMs, like GPT-4, is typically based on transformers.
 Transformers are a type of model architecture that significantly advanced
 the field by reducing training time and improving performance.
@@ -93,16 +92,20 @@ recognize patterns in text. Here’s a breakdown of its key components:
 be single words or parts of words. For example:
 Single token: “Hello”
 Multi-token: “Summarization” -> “sum”, “mar”, “ization”
-2.** Embedding:**
+
+2.**Embedding:**
    These tokens are then converted into vectors (1D
 representations). This step helps the model understand the context and
 relationships between words.
+
 4. **Transformers:** Utilizing multi-head attention mechanisms, transformers
 process these embeddings to predict and generate text. Transformers use
 metrics like perplexity to measure how well the model predicts the next
 word in a sequence.
-Applications of LLMs
+
+**Applications of LLMs**
 **LLMs are incredibly versatile and can be used for:**
+
 **Summarization:** Condensing long texts into shorter summaries.
 **Text Generation: **Creating coherent and contextually relevant text.
 **Creative Writing:** Assisting in generating stories, poems, and more.
