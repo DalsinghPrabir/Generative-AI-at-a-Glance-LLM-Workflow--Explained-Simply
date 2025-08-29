@@ -60,14 +60,14 @@ Helps with complex reasoning tasks
 
 
 
-What is an LLM?
+**What is an LLM? **
 An LLM, or Large Language Model, is a type of neural network specifically
 designed to process and generate human-like text. These models are built on
 massive datasets, intricate architectures, and intensive training processes.
 Here’s a simple formula to understand LLMs:
 LLM = DATA + ARCHITECTURE + TRAINING
 
-Data
+**Data **
 LLMs are trained on petabytes of data. To give you an idea:
 1 GB can contain around 178 million words.
 1 PB (petabyte) equals 1 million GBS
@@ -77,35 +77,38 @@ Books
 Transcripts
 Web scraping
 
-Architecture
+**Architecture **
 The architecture of LLMs, like GPT-4, is typically based on transformers.
 Transformers are a type of model architecture that significantly advanced
 the field by reducing training time and improving performance.
-Training
+**Training**
 Training involves feeding the data into the architecture and adjusting the
 model based on its performance in predicting and generating text.
-How Does an LLM Work?
+**How Does an LLM Work? **
 At its core, an LLM is a neural network trained on vast amounts of data to
 recognize patterns in text. Here’s a breakdown of its key components:
-1. Tokenization: The text is broken down into individual tokens. Tokens can
+
+1. **Tokenization:**
+2. The text is broken down into individual tokens. Tokens can
 be single words or parts of words. For example:
 Single token: “Hello”
 Multi-token: “Summarization” -> “sum”, “mar”, “ization”
-2. Embedding: These tokens are then converted into vectors (1D
+2.** Embedding:**
+   These tokens are then converted into vectors (1D
 representations). This step helps the model understand the context and
 relationships between words.
-3. Transformers: Utilizing multi-head attention mechanisms, transformers
+4. **Transformers:** Utilizing multi-head attention mechanisms, transformers
 process these embeddings to predict and generate text. Transformers use
 metrics like perplexity to measure how well the model predicts the next
 word in a sequence.
 Applications of LLMs
-LLMs are incredibly versatile and can be used for:
-Summarization: Condensing long texts into shorter summaries.
-Text Generation: Creating coherent and contextually relevant text.
-Creative Writing: Assisting in generating stories, poems, and more.
-Q&A: Providing answers to questions based on the data they were trained
+**LLMs are incredibly versatile and can be used for:**
+**Summarization:** Condensing long texts into shorter summaries.
+**Text Generation: **Creating coherent and contextually relevant text.
+**Creative Writing:** Assisting in generating stories, poems, and more.
+**Q&A: **Providing answers to questions based on the data they were trained
 on.
-Programming: Helping with code
+**Programming:** Helping with code
 
 
 
