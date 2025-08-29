@@ -186,6 +186,9 @@ process these embeddings to predict and generate text. Transformers use
 metrics like perplexity to measure how well the model predicts the next
 word in a sequence.
 
+**LLM Workflow**
+<img width="324" height="336" alt="LLM Workflow" src="https://github.com/user-attachments/assets/fc9ffc25-1a04-48c5-9624-c5f8959b9ff4" />
+
 **Applications of LLMs**
 
 **LLMs are incredibly versatile and can be used for:**
