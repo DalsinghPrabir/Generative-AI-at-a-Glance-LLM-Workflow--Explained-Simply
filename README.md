@@ -107,19 +107,25 @@ Multi-token: *“Summarization” -> “sum”, “mar”, “ization”*
 representations). This step helps the model understand the context and
 relationships between words.
 
-4. **Transformers:** Utilizing multi-head attention mechanisms, transformers
+3. **Transformers:**
+   Utilizing multi-head attention mechanisms, transformers
 process these embeddings to predict and generate text. Transformers use
 metrics like perplexity to measure how well the model predicts the next
 word in a sequence.
 
 **Applications of LLMs**
+
 **LLMs are incredibly versatile and can be used for:**
 
 **Summarization:** Condensing long texts into shorter summaries.
+
 **Text Generation**Creating coherent and contextually relevant text.
+
 **Creative Writing:** Assisting in generating stories, poems, and more.
+
 **Q&A**Providing answers to questions based on the data they were trained
 on.
+
 **Programming:** Helping with code
 → When AI gives wrong or made-up answers 
 → Can be fixed with fact-checking and better prompts
