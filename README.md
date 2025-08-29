@@ -201,6 +201,25 @@ on.
 
 
 
-References : https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/
+**References :**  
 
-Podcasts on AI 
+https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/
+
+Google AI Blog: Keeps you updated on Google's latest research and developments in AI, often with accessible explanations.
+
+https://ai.googleblog.com/
+
+Podcasts on AI : 
+
+Sam Altman x Nikhil Kamath
+https://www.youtube.com/watch?v=SfOaZIGJ_gs
+
+
+Nikhil Kamath x Nikesh Arora 
+
+https://www.youtube.com/watch?v=vPvnzWoK24Q 
+
+
+Aravind Srinivas Raj Shamani Podcast
+
+https://www.youtube.com/watch?v=QY6yHJC2DIE
