@@ -216,11 +216,9 @@ Here are the different parts of the ML pipeline explained
 **Data Collection**
 The first step in an ML pipeline is data collection. This involves gathering data from sources such as DBs, APIs, or scraping websites. For eg, to build a recommendation system for movies, you might collect data on movie ratings from users on a movie review website.
 
-**Data Cleaning and Preprocessing** 
+**Data processing** 
 Once you have collected the data, you need to clean and preprocess it to prepare it for analysis. This involves removing missing or duplicate values, handling outliers, and scaling or normalizing the data. For eg, you might remove any movies with a rating of 0 or handle missing values by imputing them with the mean rating of similar movies.
 
-**Feature Engineering**
-Feature engineering is the process of selecting, extracting, and transforming features from the data to create meaningful input variables for machine learning models. For eg, you might extract the genre of a movie or the director's name as features to use in a recommendation system.
 
 **Model Selection**
 Once you have engineered the features, you must select a suitable machine-learning model. This involves choosing the type of model (such as regression or classification), tuning hyperparameters, and selecting evaluation metrics. For eg, you might choose a collaborative filtering model for your recommendation system and use mean squared error as the evaluation metric.
@@ -235,6 +233,7 @@ Once you have trained your model, you need to evaluate its performance on unseen
 Finally, once you are satisfied with your model's performance, you need to deploy it in a prod environment. This involves integrating the model into a more extensive software system and making it available for use by end-users. For eg, you can deploy your recommendation system as an API that a movie streaming service can use.
 
 
+<img width="1024" height="1536" alt="ML modeling" src="https://github.com/user-attachments/assets/437a7f6d-8e0d-4a2b-9be5-0660aab9af3a" />
 
 **References :**  
 
