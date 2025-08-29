@@ -1,4 +1,4 @@
-<u>AI Explained Simply : Sharing My Learnings</u>
+**AI Explained Simply : Sharing My Learnings**
 
 
  **AI would revolutionize search capabilities**  and  will enhance human understanding and questioning.
