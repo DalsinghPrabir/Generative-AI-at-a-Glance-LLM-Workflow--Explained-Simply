@@ -1,6 +1,6 @@
 # Generative-AI-at-a-Glance-LLM-Workflow--Explained-Simply
 
- AI would revolutionize search capabilities and  will enhance human understanding and questioning.
+ AI would **revolutionize search capabilities**  and  will enhance human understanding and questioning.
  AI enhances human curiosity by generating questions beyond our current understanding, It empowers users to ask questions confidently and receive trustworthy answers.
  
  AI democratizes access to knowledge and answers for everyone , It democratizes knowledge, igniting endless curiosity and question-asking potential.
