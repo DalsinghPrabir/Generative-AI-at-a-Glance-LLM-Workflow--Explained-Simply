@@ -1,10 +1,10 @@
-# Generative-AI-at-a-Glance-LLM-Workflow--Explained-Simply
+**AI Explained Simply : Sharing My Learnings**
 
 
- AI would **revolutionize search capabilities**  and  will enhance human understanding and questioning.
+ **AI would revolutionize search capabilities**  and  will enhance human understanding and questioning.
  AI enhances human curiosity by generating questions beyond our current understanding, It empowers users to ask questions confidently and receive trustworthy answers.
  
- AI democratizes access to knowledge and answers for everyone , It democratizes knowledge, igniting endless curiosity and question-asking potential.
+ **AI democratizes access to knowledge and answers for everyone** , It democratizes knowledge, igniting endless curiosity and question-asking potential.
  
 **What is Generative AI (GenAI)?**
 
@@ -18,36 +18,35 @@ Code (programming help)
 
 Music, videos, and more
 
-Examples: ChatGPT, Gemini, DALL·E, Claude, GitHub Copilot.
+**Examples: ChatGPT, Gemini, DALL·E, Claude, GitHub Copilot.**
 
 **Why is GenAI booming in the market?**
 
-Massive productivity boost → It helps developers, marketers, analysts, and others do more in less time.
+Massive productivity boost - It helps developers, marketers, analysts, and others do more in less time.
 
-Democratization of creativity → Anyone (even without special skills) can create high-quality content.
+Democratization of creativity -  Anyone (even without special skills) can create high-quality content.
 
-AI as an assistant → Earlier AI was only predictive (e.g., forecasting sales). Now it’s assistive (helps in actual work).
-
-Integration into products → Big tech companies are adding GenAI into almost every software/tool we use.
+AI as an assistant-  Earlier AI was only predictive (e.g., forecasting sales)
+Integration into products -  Big tech companies are adding GenAI into almost every software/tool we use.
 
 **Top Benefits of GenAI**
 
-Faster work → Quickly creates content, code, and ideas.
+Faster work -  Quickly creates content, code, and ideas.
 
-Automation → Takes over repetitive tasks using intelligence.
+Automation-  Takes over repetitive tasks using intelligence.
 
-Personalized learning → Acts like a tutor/guide tailored to your needs.
+Personalized learning - Acts like a tutor/guide tailored to your needs.
 
-Better customer service → AI chatbots and agents can solve queries instantly.
+Better customer service -  AI chatbots and agents can solve queries instantly.
 
 **Concerns**
 
-Data privacy → Ensuring personal or company data isn’t misused.
+Data privacy -  Ensuring personal or company data isn’t misused.
 
-Intellectual property (IP) → Making sure the content created by AI doesn’t violate copyright or ownership.
+Intellectual property (IP) -  Making sure the content created by AI doesn’t violate copyright or ownership.
 
 
-**AI -How it is revolutionalising Software Development**
+**AI - How it is revolutionalising Software Development**
 
  AI can save huge amounts of time (days or weeks of work reduced to minutes) if you use it with the right workflows and prompts.
 
@@ -66,9 +65,7 @@ Always validate outputs just like reviewing a junior developer’s work.
 Future of software engineering is not just writing code, but also knowing:
 
 What tasks to delegate to AI,
-
 How to instruct AI clearly,
-
 When to step in manually.
 
 **In short:**
@@ -80,6 +77,8 @@ AI helps us move faster, but true value comes from building smarter, reliable, a
 𝟭. 𝗟𝗟𝗠 (𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹) 
 
  Helps computers understand and write human-like text 
+ LLM = the brain that generates text.
+ 
  Examples: GPT-4, Claude, Gemini 
  Used in: Chatbots, coding tools, content generation
 
@@ -87,6 +86,9 @@ AI helps us move faster, but true value comes from building smarter, reliable, a
 
 The tech behind all modern AI models 
 Let models understand meaning, context, and order of words 
+
+Transformers = the architecture that makes LLMs powerful.
+
 Examples: BERT, GPT
 
 𝟯. 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 
@@ -109,15 +111,17 @@ Used in search engines and recommendation systems
 Combines AI with a database or document store 
 Helps AI give more accurate, fact-based answers
 
+RAG = a method to make LLMs smarter with external, real-time data.
+
 𝟳. 𝗧𝗼𝗸𝗲𝗻𝘀 
 
-→ The chunks of text AI reads and writes 
-→ Managing them controls cost and performance
+ The chunks of text AI reads and writes 
+ Managing them controls cost and performance
 
-8. 𝗖𝗵𝗮𝗶𝗻-𝗼𝗳-𝗧𝗵𝗼𝘂𝗴𝗵𝘁 
+ A token is the smallest unit of text that an LLM (like GPT) reads and understands.
+ An LLM builds sentences by snapping these tokens together one by one.
 
-AI explains its answer step-by-step 
-Helps with complex reasoning tasks
+
 
 𝗪𝗵𝗮𝘁’𝘀  **Booming?**
 
