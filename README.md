@@ -205,6 +205,37 @@ on.
 
 
 
+**Learn about Machine Learning Pipeline**
+
+
+A machine learning pipeline is a series of interconnected steps that work together to process, transform, and learn from data.
+
+Here are the different parts of the ML pipeline explained 
+
+**Data Collection**
+The first step in an ML pipeline is data collection. This involves gathering data from sources such as DBs, APIs, or scraping websites. For eg, to build a recommendation system for movies, you might collect data on movie ratings from users on a movie review website.
+
+**Data Cleaning and Preprocessing** 
+Once you have collected the data, you need to clean and preprocess it to prepare it for analysis. This involves removing missing or duplicate values, handling outliers, and scaling or normalizing the data. For eg, you might remove any movies with a rating of 0 or handle missing values by imputing them with the mean rating of similar movies.
+
+**Feature Engineering**
+Feature engineering is the process of selecting, extracting, and transforming features from the data to create meaningful input variables for machine learning models. For eg, you might extract the genre of a movie or the director's name as features to use in a recommendation system.
+
+**Model Selection**
+Once you have engineered the features, you must select a suitable machine-learning model. This involves choosing the type of model (such as regression or classification), tuning hyperparameters, and selecting evaluation metrics. For eg, you might choose a collaborative filtering model for your recommendation system and use mean squared error as the evaluation metric.
+
+**Model Training**
+Once you select a model, you must train it on your data. This involves fitting the model to the training data and optimizing the model parameters to minimize the loss function. For eg, you might use gradient descent to train your collaborative filtering model on your movie rating data.
+
+**Model Evaluation**
+Once you have trained your model, you need to evaluate its performance on unseen data. This involves using the evaluation metrics selected in the model selection phase to measure the model's accuracy, precision, recall, and other performance metrics. For eg, you might evaluate your recommendation system's performance by measuring its mean squared error on a held-out test set.
+
+**Model Deployment**
+Finally, once you are satisfied with your model's performance, you need to deploy it in a prod environment. This involves integrating the model into a more extensive software system and making it available for use by end-users. For eg, you can deploy your recommendation system as an API that a movie streaming service can use.
+
+
+
+
 **References :**  
 
 https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/
