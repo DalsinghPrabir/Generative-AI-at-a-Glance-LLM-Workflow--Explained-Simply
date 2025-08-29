@@ -1,47 +1,54 @@
 # Generative-AI-at-a-Glance-LLM-Workflow--Explained-Simply
 
+ AI would revolutionize search capabilities and  will enhance human understanding and questioning.
+ AI enhances human curiosity by generating questions beyond our current understanding, It empowers users to ask questions confidently and receive trustworthy answers.
+ 
+ AI democratizes access to knowledge and answers for everyone , It democratizes knowledge, igniting endless curiosity and question-asking potential.
+ 
+
+ 
 
 𝟭. 𝗟𝗟𝗠 (𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹) 
 
-→ Helps computers understand and write human-like text 
-→ Examples: GPT-4, Claude, Gemini 
-→ Used in: Chatbots, coding tools, content generation
+ Helps computers understand and write human-like text 
+ Examples: GPT-4, Claude, Gemini 
+ Used in: Chatbots, coding tools, content generation
 
 𝟮. 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿𝘀 
 
-→ The tech behind all modern AI models 
-→ Let models understand meaning, context, and order of words 
-→ Examples: BERT, GPT
+The tech behind all modern AI models 
+Let models understand meaning, context, and order of words 
+Examples: BERT, GPT
 
 𝟯. 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 
 
-→ Writing better instructions to get better AI answers 
-→ Includes system prompts, step-by-step prompts, and safety rules
+ Writing better instructions to get better AI answers 
+ Includes system prompts, step-by-step prompts, and safety rules
 
 𝟰. 𝗙𝗶𝗻𝗲-𝗧𝘂𝗻𝗶𝗻𝗴 
 
-→ Training an AI model on your data 
-→ Helps tailor it for specific tasks like legal, medical, or financial use cases
+Training an AI model on your data 
+ Helps tailor it for specific tasks like legal, medical, or financial use cases
 
 𝟱. 𝗘𝗺𝗯𝗲𝗱𝗱𝗶𝗻𝗴𝘀 
 
-→ A way for AI to understand meaning and relationships between words or documents 
-→ Used in search engines and recommendation systems
+A way for AI to understand meaning and relationships between words or documents 
+Used in search engines and recommendation systems
 
 𝟲. 𝗥𝗔𝗚 (𝗥𝗲𝘁𝗿𝗶𝗲𝘃𝗮𝗹-𝗔𝘂𝗴𝗺𝗲𝗻𝘁𝗲𝗱 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻) 
 
-→ Combines AI with a database or document store 
-→ Helps AI give more accurate, fact-based answers
+Combines AI with a database or document store 
+Helps AI give more accurate, fact-based answers
 
 𝟳. 𝗧𝗼𝗸𝗲𝗻𝘀 
 
 → The chunks of text AI reads and writes 
 → Managing them controls cost and performance
 
-*. 𝗖𝗵𝗮𝗶𝗻-𝗼𝗳-𝗧𝗵𝗼𝘂𝗴𝗵𝘁 
+8. 𝗖𝗵𝗮𝗶𝗻-𝗼𝗳-𝗧𝗵𝗼𝘂𝗴𝗵𝘁 
 
-→ AI explains its answer step-by-step 
-→ Helps with complex reasoning tasks
+AI explains its answer step-by-step 
+Helps with complex reasoning tasks
 
 𝗪𝗵𝗮𝘁’𝘀  𝗡𝗲𝘅𝘁? 
 
