@@ -233,7 +233,7 @@ Once you have trained your model, you need to evaluate its performance on unseen
 Finally, once you are satisfied with your model's performance, you need to deploy it in a prod environment. This involves integrating the model into a more extensive software system and making it available for use by end-users. For eg, you can deploy your recommendation system as an API that a movie streaming service can use.
 
 
-<img width="1024" height="1536" alt="ML modeling" src="https://github.com/user-attachments/assets/437a7f6d-8e0d-4a2b-9be5-0660aab9af3a" />
+<img width="324" height="336" alt="ML modeling" src="https://github.com/user-attachments/assets/437a7f6d-8e0d-4a2b-9be5-0660aab9af3a" />
 
 **References :**  
 
