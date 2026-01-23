@@ -1,4 +1,4 @@
-<img width="348" height="28" alt="image" src="https://github.com/user-attachments/assets/297836c8-a350-4a14-ac7b-0dc67f114dd1" />**AI Explained Simply : Sharing My Learnings**
+**AI Explained Simply : Sharing My Learnings**
 
 
  **AI would revolutionize search capabilities**  and  will enhance human understanding and questioning.
