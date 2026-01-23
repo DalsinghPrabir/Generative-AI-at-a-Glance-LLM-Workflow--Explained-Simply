@@ -1,4 +1,4 @@
-**AI Explained Simply : Sharing My Learnings**
+<img width="348" height="28" alt="image" src="https://github.com/user-attachments/assets/297836c8-a350-4a14-ac7b-0dc67f114dd1" />**AI Explained Simply : Sharing My Learnings**
 
 
  **AI would revolutionize search capabilities**  and  will enhance human understanding and questioning.
@@ -237,6 +237,22 @@ Finally, once you are satisfied with your model's performance, you need to deplo
 
 
 <img width="324" height="336" alt="ML modeling" src="https://github.com/user-attachments/assets/437a7f6d-8e0d-4a2b-9be5-0660aab9af3a" />
+
+
+ Building and training an LLM from scratch :
+
+
+
+1. Build the decoder-only transformer architecture
+2. Build a tokenizer
+3. Load, tokenize, and preprocess a dataset derived from Wikipedia articles
+4. Create a dataset required for language modeling
+5.  Efficiently load this dataset in batches
+6. Train the model on a GPU
+7. Generate text from the trained model/ Inference
+
+
+<img width="431" height="165" alt="image" src="https://github.com/user-attachments/assets/0fd2bb8a-b877-40b4-92ab-006b869c6130" />
 
 **References :**  
 
