@@ -237,6 +237,7 @@ Finally, once you are satisfied with your model's performance, you need to deplo
 
 
 <img width="324" height="336" alt="ML modeling" src="https://github.com/user-attachments/assets/437a7f6d-8e0d-4a2b-9be5-0660aab9af3a" />
+<img width="800" height="921" alt="image" src="https://github.com/user-attachments/assets/269a6316-7aa4-45cc-a5ec-ffcbe5eb84b9" />
 
 
  Building and training an LLM from scratch :
