@@ -253,7 +253,16 @@ Finally, once you are satisfied with your model's performance, you need to deplo
 7. Generate text from the trained model/ Inference
 
 
-<img width="431" height="165" alt="image" src="https://github.com/user-attachments/assets/0fd2bb8a-b877-40b4-92ab-006b869c6130" />
+<img width="231" height="105" alt="image" src="https://github.com/user-attachments/assets/0fd2bb8a-b877-40b4-92ab-006b869c6130" />
+
+
+
+The AGENTIC AI FOR CI/CD tools already in production:
+⚙️ LangChain / LangGraph — agent orchestration
+⚙️ AutoGen (Microsoft) — multi-agent systems
+⚙️ CrewAI — role-based agent teams
+⚙️ AWS Bedrock Agents — cloud-native infrastructure
+
 
 **References :**  
 
