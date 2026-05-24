@@ -346,6 +346,20 @@ MCP has five core building blocks (also known as primitives). They are divided b
 
 <img width="800" height="939" alt="image" src="https://github.com/user-attachments/assets/c8bb89f6-c895-4c61-9bd1-81f17e8ded08" />
 
+
+Real AI engineering starts when you understand:
+→ Transformers & Attention
+→ Tokenization & Embeddings
+→ Fine-tuning, RLHF, LoRA
+→ RAG pipelines & chunking strategies
+→ Agents, memory, tool calling
+→ Quantization & serving
+→ Evaluation & observability
+→ Security & prompt injection defense
+
+Most content online teaches “how to call an API.”
+Very little teaches:
+how LLM systems behave internally in production.
 **References :**  
 
 https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/
