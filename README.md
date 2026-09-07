@@ -344,6 +344,26 @@ MCP has five core building blocks (also known as primitives). They are divided b
 2 - For the servers, there are Prompts (instructions to guide the AI), Resources (Data Objects that the AI can reference) and Tools (functions that the AI can call such as running a DB query).
 
 
+IN SHORT :
+
+
+As part of  transition into GenAI
+
+Here are the 10 essential LLM fundamentals I'm exploring:
+
+1️⃣ Tokens – Cost, context & latency
+2️⃣ Embeddings – Semantic search & RAG
+3️⃣ Attention & Transformers – Understanding context
+4️⃣ Model Architectures – GPT, BERT & T5
+5️⃣ Context Window – Managing relevant context
+6️⃣ Positional Information – Why token order matters
+7️⃣ KV Cache – Inference performance & memory
+8️⃣ Sampling – Temperature, Top-k & Top-p
+9️⃣ Hallucination – Why LLM output cannot always be trusted
+🔟 Prompting vs Fine-tuning – Knowing when to use each
+
+🎯  goal: To understand the essential fundamentals needed to build, troubleshoot and make better architectural decisions for production-grade GenAI applications.
+
 <img width="800" height="939" alt="image" src="https://github.com/user-attachments/assets/c8bb89f6-c895-4c61-9bd1-81f17e8ded08" />
 
 
