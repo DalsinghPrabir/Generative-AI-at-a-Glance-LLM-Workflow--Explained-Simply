@@ -344,6 +344,49 @@ MCP has five core building blocks (also known as primitives). They are divided b
 2 - For the servers, there are Prompts (instructions to guide the AI), Resources (Data Objects that the AI can reference) and Tools (functions that the AI can call such as running a DB query).
 
 
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐌𝐂𝐏 (𝐌𝐨𝐝𝐞𝐥 𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐏𝐫𝐨𝐭𝐨𝐜𝐨𝐥)?
+
+Most AI agents are trapped inside their own walls.
+MCP is the protocol that connects them to the outside world data sources, tools, and workflows.
+
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐌𝐂𝐏?
+
+• MCP is an open-source standard that connects AI applications to external systems like data sources, tools, and workflows.
+• It enables seamless integrations, allowing AI models like ChatGPT to access data, use tools, and perform tasks like web app creation or database queries.
+• MCP simplifies development, reducing complexity and time by providing a standardized way to connect AI systems to various resources.
+• It enhances AI capabilities, making models more powerful and personalized by allowing them to interact with external systems and data on behalf of users.
+
+𝐁𝐞𝐟𝐨𝐫𝐞 𝐌𝐂𝐏
+
+LLM → Slack, Google Drive, GitHub (separate connections for each).
+
+Every integration is custom. Every tool requires its own API client. Every agent reinvents the wheel.
+
+𝐀𝐟𝐭𝐞𝐫 𝐌𝐂𝐏
+
+LLM → Unified API (MCP) → Slack, Google Drive, GitHub.
+
+One protocol. One connection layer. Every tool accessible through a standardized interface.
+
+𝐇𝐨𝐰 𝐌𝐂𝐏 𝐖𝐨𝐫𝐤𝐬?
+
+User → User Query → MCP Client → Invoke Graph → LangGraph → Route Request → OpenAI GPT → Tool Decision → Call MCP Tool → MCP Server → External API Call → External APIs → API Response → MCP Server → Tool Result → OpenAI GPT → Generate Response → MCP Client → Natural Language Response → Final Result User → Agent Response → User.
+
+𝐓𝐡𝐞 𝐅𝐥𝐨𝐰
+
+1. User sends a query to the MCP Client.
+2. MCP Client invokes LangGraph to route the request.
+3. OpenAI GPT makes a tool decision and calls the MCP Tool.
+4. MCP Server makes an external API call to the appropriate service (Slack, Google Drive, GitHub, etc.).
+5. External API returns a response to the MCP Server.
+6. MCP Server sends the tool result back to OpenAI GPT.
+7. OpenAI GPT generates a natural language response.
+8. MCP Client delivers the final result to the user.
+
+Before MCP, every agent built its own integrations. After MCP, every agent shares the same connection layer.
+
+MCP is the protocol that turns isolated AI models into connected AI agents.
+
 IN SHORT :
 
 
