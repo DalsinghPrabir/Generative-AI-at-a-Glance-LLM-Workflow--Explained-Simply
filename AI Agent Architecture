@@ -1,0 +1,37 @@
+AI Agent Architecture 2026, simplified.
+
+Building an AI agent is no longer about connecting an LLM to a chatbot.
+
+A production-ready agent needs an entire system working behind it.
+
+It starts with the user goal: the outcome the agent is expected to achieve. From there, the architecture expands into multiple connected layers.
+
+→ Interface & Channels
+Chat UI, APIs, Slack, or Teams become the entry points where users interact with the agent.
+
+→ Planning & Orchestration
+Frameworks like LangGraph, CrewAI, Mastra, and AutoGen help break goals into tasks, coordinate steps, and manage execution.
+
+→ Memory & Context
+Short-term memory, long-term memory, retrieval, vector databases, and prompt caching keep the agent grounded across interactions.
+
+→ Models
+Claude, GPT, Gemini, and Llama provide the reasoning layer powering decisions and responses.
+
+→ Tools & Actions
+GitHub, browsers, APIs, databases, and code execution allow agents to move from answering to actually doing work.
+
+→ State & Data
+PostgreSQL, Redis, object storage, and vector databases maintain persistent operational data.
+
+→ Observability & Safety
+Tracing, evaluation, guardrails, and quality checks help teams understand what the agent is doing and where it fails.
+
+→ Deployment & Infrastructure
+Docker, Kubernetes, cloud platforms, and edge infrastructure make the system scalable and reliable.
+
+The real shift is simple:
+
+AI agents are becoming software systems, not standalone models.
+
+And designing the surrounding architecture well is what turns a clever prototype into a dependable production agent.
